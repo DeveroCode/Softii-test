@@ -1,0 +1,6 @@
+# Configuracion para el backen .env
+MONGO_URI = mongodb+srv://ROOT:OIQKeYjjipDyLuv9@cluster0.i0ngf9r.mongodb.net/sotfii_test?retryWrites=true&w=majority&appName=Cluster0
+FRONTEND_URL = http://localhost:5173
+
+# Configuraicion para el front-end .env.local
+VITE_API_URL=http://localhost:4000/api
