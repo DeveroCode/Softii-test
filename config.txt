@@ -1,4 +1,4 @@
-# Configuracion para el backen .env
+# Configuracion para el backend .env
 MONGO_URI = mongodb+srv://ROOT:OIQKeYjjipDyLuv9@cluster0.i0ngf9r.mongodb.net/sotfii_test?retryWrites=true&w=majority&appName=Cluster0
 FRONTEND_URL = http://localhost:5173
 
